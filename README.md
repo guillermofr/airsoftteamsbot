@@ -1,18 +1,17 @@
+
+
 #airsoftteamsbot 
 
 Bot for telegram for manage airsoft club games.
 
-#setup
+##setup
 
-set your telegram API key at /application/controllers/main.php
-set your url base at /config/config.php
+ - set your telegram API key at /application/controllers/main.php
+ - set your url base at /config/config.php
 
+#framework info
 
-
-##framework info
-
-
-#PIP
+##PIP
 
 PIP is a tiny application framework built for people who use a LAMP stack. PIP aims to be as simple as possible to set up and use.
 
